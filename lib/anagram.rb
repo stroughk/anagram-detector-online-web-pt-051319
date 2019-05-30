@@ -7,4 +7,8 @@ class Anagram
     @anagram=anagram 
   end 
   
+  def match
+    
+  end
+  
 end
